@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CRUD API MVVM</string>
+    <string name="add_menu">Add Menu</string>
+    <string name="create_category">Create Category</string>
+    <string name="enter_category_name">Enter Category Name</string>
+    <string name="create">Create</string>
+    <string name="modify_category">Update &amp; Delete Category</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
