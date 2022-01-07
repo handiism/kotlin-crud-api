@@ -26,6 +26,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:autofillHints="name"
+        android:gravity="center"
         android:hint="@string/enter_category_name"
         android:inputType="textPersonName"
         android:textSize="18sp"
