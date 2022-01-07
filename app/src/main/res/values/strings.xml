@@ -7,4 +7,6 @@
     <string name="modify_category">Update &amp; Delete Category</string>
     <string name="update">Update</string>
     <string name="delete">Delete</string>
+    <string name="category_id">Category ID</string>
+    <string name="category_name">Category Name</string>
 </resources>
