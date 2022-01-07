@@ -37,7 +37,7 @@
             tools:text="@tools:sample/lorem/random" />
 
         <TextView
-            android:id="@+id/tv_label"
+            android:id="@+id/tv_category_name"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:ellipsize="end"
@@ -45,6 +45,7 @@
             android:textSize="20sp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toEndOf="@id/guideline"
+            app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             tools:text="@tools:sample/lorem/random" />
     </androidx.constraintlayout.widget.ConstraintLayout>

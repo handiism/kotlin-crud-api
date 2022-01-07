@@ -12,7 +12,7 @@ class RecyclerViewAdapter(private val itemClickListener: OnItemClickListener) :
 
     inner class ViewHolder(view: View) : RecyclerView.ViewHolder(view) {
         private val tvId: TextView = view.findViewById(R.id.tv_category_id)
-        private val tvName: TextView = view.findViewById(R.id.tv_label)
+        private val tvName: TextView = view.findViewById(R.id.tv_category_name)
 
         fun bind(data: Category) {
             tvId.text = data.id.toString()
