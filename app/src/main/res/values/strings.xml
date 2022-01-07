@@ -9,4 +9,6 @@
     <string name="delete">Delete</string>
     <string name="category_id">Category ID</string>
     <string name="category_name">Category Name</string>
+    <string name="category_is_empty">Category is Empty</string>
+    <string name="refresh">Refresh</string>
 </resources>

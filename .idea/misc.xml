@@ -8,8 +8,8 @@
         <entry key="app/src/main/res/drawable/transparent_background.xml" value="0.1845" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/create_category_dialog_fragment.xml" value="0.67" />
-        <entry key="app/src/main/res/layout/item_row_category.xml" value="0.3532668881506091" />
-        <entry key="app/src/main/res/layout/update_delete_category_dialog_fragment.xml" value="0.5056818181818182" />
+        <entry key="app/src/main/res/layout/item_row_category.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/update_delete_category_dialog_fragment.xml" value="0.2" />
         <entry key="app/src/main/res/menu/main.xml" value="0.20677083333333332" />
       </map>
     </option>
@@ -23,7 +23,7 @@
   <component name="VisualizationToolProject">
     <option name="state">
       <ProjectState>
-        <option name="scale" value="0.2" />
+        <option name="scale" value="0.1" />
       </ProjectState>
     </option>
   </component>
